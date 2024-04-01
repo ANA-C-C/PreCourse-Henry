@@ -1,2 +1,3 @@
 # PreCourse-Henry
-Este es un repositorio del modulo2 del precourse de henry
+esta es un prueba de nuestro repositorio y como clonarlo
+
